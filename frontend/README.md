@@ -1,0 +1,1 @@
+React Redux powers this straightforward to-do list application available on the web. Creating new tasks and checking them off after completion, as well as removing them if no longer necessary, is a breeze. It helps you manage your tasks efficiently.
